@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "passowrd defined on MongoDB Atlas account",
+        "JWT_SECRET_KEY": "secret key to use in authorizathion"
+    }
+}
